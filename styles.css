@@ -291,6 +291,9 @@ color:rgb(231, 235, 42)
     color: #000000;
     -webkit-box-shadow: 10px 10px 0px 0px #000000; 
 box-shadow: 7px 10px 0px 0px #000000;
+    .icon {
+    color: #000000;
+    }
 }
 
 .card:nth-child(6){
